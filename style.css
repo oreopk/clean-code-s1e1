@@ -43,7 +43,8 @@
 .task-item, .todo-title {
   list-style: none;
 }
-.input-text,.btn{
+.input-text,
+.btn{
   outline: none;
 }
 .btn {
